@@ -1,0 +1,16 @@
+#resource-window {
+    display: flex;
+}
+
+#main-text {
+    width: 70vh;
+    padding: 2rem;
+}
+
+#planet-overview {
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+}
