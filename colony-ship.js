@@ -49,3 +49,5 @@ id_shipColonists.textContent = shipColonists;
 //Databases
 id_shipScientific.textContent = shipScientific + "%";
 id_shipCultural.textContent = shipCultural + "%";
+
+
