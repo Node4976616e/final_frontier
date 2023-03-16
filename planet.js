@@ -82,7 +82,7 @@ function getPlanetPlantLife() {
     let randomPlantLife = Math.floor((Math.random() * planetPlantLife.length));
     return [randomPlantLife = planetPlantLife[randomPlantLife]];
 }
-// function for choosing planet plant resources
+// function for choosing planet resources
 function getPlanetResources() {
     let randomResources = Math.floor((Math.random() * planetResources.length));
     return [randomResources = planetResources[randomResources]];

@@ -1,3 +1,9 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: 1.3rem;
+}
+
 #resource-window {
     display: flex;
 }
@@ -9,6 +15,10 @@
 
 #planet-overview {
     display: flex;
+}
+
+.list-item {
+    font-weight: 600;
 }
 
 ul {
